@@ -1,11 +1,21 @@
-0 Abaya
-1 Cheongsam
-2 Dishdasha
-3 Drindl
-4 Hanbok
-5 Jalabiya
-6 Kaftan
-7 Keffiyeh
-8 Kilt
-9 Kimono
-10 Sari
+0 Atayef 
+1 Batata Harra
+2 Kaak
+3 Kibbeh
+4 Knafeh 
+5 Koussa Mehshi
+6 Riz Kabseh 
+7 Riz Lahmeh 
+8 Sfiha 
+9 Shawarma Sandwich 
+10 Shishbarak
+11 Falafel
+12 Fatoush 
+13 Ghanouj
+14 Grape 
+15 Hummus
+16 Mankousheh
+17 Mjadara
+18 Nayye 
+19 Tabouleh
+20 Tawouk
