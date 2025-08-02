@@ -1,0 +1,11 @@
+0 Abaya
+1 Cheongsam
+2 Dishdasha
+3 Drindl
+4 Hanbok
+5 Jalabiya
+6 Kaftan
+7 Keffiyeh
+8 Kilt
+9 Kimono
+10 Sari
